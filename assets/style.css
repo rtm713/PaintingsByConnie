@@ -1,0 +1,56 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color:lightslategray;
+}
+
+header {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: mediumblue;
+    text-shadow: 2px 2px 5px white;
+}
+
+header a {
+    height: fit-content;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: blue;
+    margin-right: 20px;
+}
+
+header a:hover {
+    color: purple;
+}
+
+
+#paintingContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.paintingBox {
+    width: 20%;
+    margin: 2%;
+    text-align: center;
+}
+
+.paintingBox img {
+    width: 100%;
+    height: auto;
+}
+
+#aboutMe {
+    height: 100vh;
+}
