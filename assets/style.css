@@ -125,6 +125,7 @@ h2 {
     
     #headDiv {
         width: 100%;
+        justify-content: center;
     }
 
     h1 {
