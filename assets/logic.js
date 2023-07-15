@@ -4,7 +4,7 @@ var titleLetters = [
     'P', 'a', 'i', 'n', 't',
     'i', 'n', 'g', 's', ' ',
     'B', 'y', ' ', 'C', 'o',
-    'n', 'n', 'n', 'i', 'e'
+    'n', 'n', 'i', 'e'
   ];
 var stop = 0;
 
